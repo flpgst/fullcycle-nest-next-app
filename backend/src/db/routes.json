@@ -1,0 +1,29 @@
+{
+  "routes": [
+    {
+      "title": "Sé de Braga, Portugal",
+      "startPosition": "41.55240824965063",
+      "endPosition": "-8.427557797074071"
+    },
+    {
+      "title": "Shop Street Galway, Irlanda",
+      "startPosition": "53.27284939811226",
+      "endPosition": "-9.0526064562097"
+    },
+    {
+      "title": "Catedral de Notre-Dame de Paris, França",
+      "startPosition": "48.85310230970976",
+      "endPosition": "2.3499450137644304"
+    },
+    {
+      "title": "Big Ben Londes, Reino Unido",
+      "startPosition": "51.5008827906387",
+      "endPosition": "-0.12467904569001836"
+    },
+    {
+      "title": "Ferrari Museum Módena, Itália",
+      "startPosition": "44.651053961717516",
+      "endPosition": "10.936538840650869"
+    }
+  ]
+}

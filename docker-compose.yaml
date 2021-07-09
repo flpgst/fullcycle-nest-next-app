@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  api:
+    build: ./backend
+    container_name: imersao-fullcycle-3-store-api-app
+    ports:
+      - 3000:3000
+
+  frontend:
+    build: ./frontend
+    container_name: imersao-fullcycle-3-store-frontend-app
+    ports:
+      - 3001:3000
